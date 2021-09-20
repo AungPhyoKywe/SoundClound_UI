@@ -1,4 +1,4 @@
-# music_app
+# SoundCloud UI
 
 ## Project setup
 ```
